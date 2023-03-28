@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+
+
 public class PojoHerokuappBookingDates {
     /*
     {
@@ -17,4 +19,6 @@ public class PojoHerokuappBookingDates {
      */
     private String checkin;
     private String checkout;
+
+
 }

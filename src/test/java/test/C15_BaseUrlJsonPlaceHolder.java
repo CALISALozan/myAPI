@@ -8,7 +8,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class C15_BaseUrlJsonPlaceHolder extends JsonPlaceHolderBaseUrl {
+public class  C15_BaseUrlJsonPlaceHolder extends JsonPlaceHolderBaseUrl {
 
     //Class icinde 3 Test metodu olusturun ve asagidaki testleri yapin
 
